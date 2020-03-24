@@ -86,7 +86,7 @@ include 'header.php'?>
     					<tr><td><input type="button" class="btn-shadow dropdown-toggle btn btn-danger" value="0 Remove" onclick="removeRow(this)"></td><td><input type="text" class="form-control card-body" name="Name0" id="et0" onkeyup="showResult(this.value,0)"></td><td><input type="text" class="form-control card-body" name="Designation[]" id="Designation0"></td><td><input type="text" class="form-control card-body" onkeydown="enterfun()" name="value0" id="value0"></td></tr>
     					</tbody>
    					    </table><div id="livesearch0" class="col-md-6" style="border: 0px none;"></div>
-   							</div><div class="col-md-6">
+   							</div><div class="col-md-6">.
 						<p>
 							
 							<input type="submit" class="btn btn-primary" value="Submit Data" onclick="myFunction()" /></p></div> <div class="col-md-6" align="right">total price<input type="text" class="form-control" id="total" name="" >paid price<input type="text" class="form-control" id="paid" name="" onkeypress="ub()">balance<input type="text" class="form-control" id="bal" name=""></div> 
