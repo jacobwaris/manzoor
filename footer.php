@@ -11,7 +11,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a href="javascript:void(0);" class="nav-link">
-                                                Footer Link 2
+                                                Footer Link hina
                                             </a>
                                         </li>
                                     </ul>
