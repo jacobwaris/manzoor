@@ -9,7 +9,7 @@
                                         <i class="lnr-picture text-danger">
                                         </i>
                                     </div>
-                                    <div>Patient Personal Details 
+                                    <div>Patient Personal Detail
                                         <div class="page-title-subheading">Please enter the detials if perviously enter see the table below. 
                                         </div>
                                     </div>
